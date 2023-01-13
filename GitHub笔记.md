@@ -86,5 +86,3 @@
     git branch -d xxx
 
 # TEST
-
-ddddddddddddddddddd
